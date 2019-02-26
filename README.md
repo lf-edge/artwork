@@ -26,5 +26,6 @@ In this repo, we provide artwork in standard formats for the LF Edge [projects](
 
 ## 
 
-Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
-Questions? Please email info@lfedge.org.
+Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage.
+
+If you have any questions, please email us at info@lfedge.org.
