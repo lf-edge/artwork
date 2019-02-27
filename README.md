@@ -18,7 +18,7 @@ In this repo, we provide artwork in standard formats for the LF Edge [projects](
 
 ## LF Edge Membership Badges
 
-<img src="/lfedge-member/premier/horizontal/color/lfedgemember-premier-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">    &nbsp;  &nbsp;  &nbsp; <img src="/lfedge-member/general/horizontal/color/lfedge-member-general-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">     
+<img src="/lfedge-member/premier/horizontal/color/lfedgemember-premier-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">    &nbsp;  &nbsp;  &nbsp; <img src="/lfedge-member/general/horizontal/color/lfedge-member-general-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">        &nbsp;  &nbsp;  &nbsp; <img src="/lfedge-member/associate/horizontal/color/lfedge-member-associate-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">   
 
 ## LF Edge Landscape
 
