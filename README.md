@@ -14,6 +14,8 @@ In this repo, we provide artwork in standard formats for the LF Edge [projects](
 
 <img src="/baetyl/horizontal/color/baetyl_horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/baetyl/icon/color/baetyl_icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/fledge/horizontal/PNG/fledge-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">
+
 ## LF Edge Logos
 
 <img src="/lfedge/horizontal/color/lfedge-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/lfedge/stacked/color/lfedge-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/lfedge/icon/color/lfedge-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
