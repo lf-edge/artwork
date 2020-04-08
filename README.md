@@ -8,7 +8,7 @@ In this repo, we provide artwork in standard formats for the LF Edge [projects](
 
 <br>
 
-<img src="stateoftheedge/horizontal/color/stateoftheedge-horizontal-color.png"  width="170" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="stateoftheedge/horizontal/black/stateoftheedge-horizontal-black.png" width="120" style="display:inline;vertical-align:middle;padding:2%">     &nbsp;  &nbsp;  &nbsp;     &nbsp;  &nbsp;  &nbsp; <img src="/glossary/horizontal/color/glossary-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/glossary/stacked/color/glossary-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">
+<img src="stateoftheedge/horizontal/color/stateoftheedge-horizontal-color.png"  width="170" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="stateoftheedge/horizontal/black/stateoftheedge-horizontal-black.png" width="120" style="display:inline;vertical-align:middle;padding:2%">     &nbsp;  &nbsp;  &nbsp;     &nbsp;  &nbsp;  &nbsp; <img src="stateoftheedge/glossary/horizontal/color/glossary-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="stateoftheedge/glossary/stacked/color/glossary-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">
 
 <br>
 
