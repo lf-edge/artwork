@@ -10,7 +10,7 @@ In this repo, we provide artwork in standard formats for the LF Edge [projects](
 
 <img src="/homeedge/horizontal/color/homeedge-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/homeedge/stacked/color/homeedge-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/homeedge/icon/color/homeedge-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/project-eve/horizontal/color/eve-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/project-eve/stacked/color/eve-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/project-eve/icon/color/eve-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/project-eve/icon/color/eve-icon-color.png" width="125" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/baetyl/horizontal/color/baetyl_horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/baetyl/icon/color/baetyl_icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
@@ -27,6 +27,11 @@ In this repo, we provide artwork in standard formats for the LF Edge [projects](
 ## LF Edge Landscape
 
 <img src="/lfedge-landscape/horizontal/color/lfedge-landscape-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/lfedge-landscape/stacked/color/lfedge-landscape-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/lfedge-landscape/icon/color/lfedge-landscape-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+
+## State of the Edge
+
+<img src="stateoftheedge/horizontal/color/stateoftheedge-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="stateoftheedge/horizontal/black/stateoftheedge-horizontal-black.png" width="120" style="display:inline;vertical-align:middle;padding:2%">
 
 ## 
 
