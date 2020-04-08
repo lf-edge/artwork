@@ -28,6 +28,11 @@ In this repo, we provide artwork in standard formats for the LF Edge [projects](
 
 <img src="/lfedge-landscape/horizontal/color/lfedge-landscape-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/lfedge-landscape/stacked/color/lfedge-landscape-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/lfedge-landscape/icon/color/lfedge-landscape-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+
+## State of the Edge
+
+<img src="stateoftheedge/horizontal/color/stateoftheedge-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/stateoftheedge/stacked/color/stateoftheedge-landscape-horizontal-black.png" width="120" style="display:inline;vertical-align:middle;padding:2%">
+
 ## 
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage.
