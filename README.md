@@ -5,9 +5,13 @@ In this repo, we provide artwork in standard formats for the LF Edge [projects](
 <img src="/akraino/horizontal/color/akraino-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/akraino/stacked/color/akraino-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/akraino/icon/color/akraino-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/edgexfoundry/horizontal/color/edgexfoundry-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/edgexfoundry/stacked/color/edgexfoundry-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/edgexfoundry/icon/color/edgexfoundry-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
-<p>
+
+
+
 <img src="stateoftheedge/horizontal/color/stateoftheedge-horizontal-color.png"  width="170" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="stateoftheedge/horizontal/black/stateoftheedge-horizontal-black.png" width="120" style="display:inline;vertical-align:middle;padding:2%">     &nbsp;  &nbsp;  &nbsp;     &nbsp;  &nbsp;  &nbsp; <img src="/glossary/horizontal/color/glossary-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/glossary/stacked/color/glossary-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">
-<p>
+
+
+
 <img src="/homeedge/horizontal/color/homeedge-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/homeedge/stacked/color/homeedge-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/homeedge/icon/color/homeedge-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 
