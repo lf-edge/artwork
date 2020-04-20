@@ -21,7 +21,7 @@ In this repo, we provide artwork in standard formats for the LF Edge [projects](
 
 <img src="/fledge/horizontal/PNG/fledge-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/fledge/icon/PNG/fledge-icon_color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="openhorizon/horizontal/openhorizon-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="openhorizon/icon/openhorizon-icon_color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+<img src="openhorizon/horizontal/color/openhorizon-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="openhorizon/icon/color/openhorizon-icon_color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 
 ## LF Edge Logos
