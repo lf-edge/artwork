@@ -25,7 +25,7 @@ In this repo, we provide artwork in standard formats for the LF Edge [projects](
 
 <img src="securedeviceonboard/horizontal/color/securedeviceonboard-horizontal-color.png"  width="300" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="securedeviceonboard/icon/color/securedeviceonboard-icon-color.png" width="105" style="display:inline;vertical-align:middle;padding:2%">
 <br>
-
+<br>
 
 ## LF Edge Logos
 
