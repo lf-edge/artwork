@@ -1,5 +1,5 @@
-# LF Edge Related Logos and Artwork 
-In this repo, we provide artwork in standard formats for the LF Edge [projects](https://www.lfedge.org/projects) and programs. We prepare artwork in 3 formats (PNG/SVG/AI), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and 3 versions (color/black/white). So, that's at least 27 versions of most logos. 
+# LF Edge Related Logos and Artwork
+In this repo, we provide artwork in standard formats for the LF Edge [projects](https://www.lfedge.org/projects) and programs. We prepare artwork in 3 formats (PNG/SVG/AI), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and 3 versions (color/black/white). So, that's at least 27 versions of most logos.
 
 ## LF Edge Project Logos
 <img src="/akraino/horizontal/color/akraino-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/akraino/stacked/color/akraino-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/akraino/icon/color/akraino-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
@@ -23,6 +23,9 @@ In this repo, we provide artwork in standard formats for the LF Edge [projects](
 
 <img src="openhorizon/horizontal/color/openhorizon-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="openhorizon/icon/color/openhorizon-icon-color.png" width="125" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="ekuiper/horizontal/color/ekuiper-horizontal-color.png"  width="250" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="ekuiper/icon/color/ekuiper-icon-color.png" width="85" style="display:inline;vertical-align:middle;padding:2%">
+
+
 <img src="securedeviceonboard/horizontal/color/securedeviceonboard-horizontal-color.png"  width="250" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="securedeviceonboard/icon/color/securedeviceonboard-icon-color.png" width="85" style="display:inline;vertical-align:middle;padding:2%">
 <br>
 <br>
@@ -41,7 +44,7 @@ In this repo, we provide artwork in standard formats for the LF Edge [projects](
 
 
 
-## 
+##
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage.
 
