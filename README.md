@@ -25,7 +25,7 @@ In this repo, we provide artwork in standard formats for the LF Edge [projects](
 
 <img src="securedeviceonboard/horizontal/color/securedeviceonboard-horizontal-color.png"  width="250" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="securedeviceonboard/icon/color/securedeviceonboard-icon-color.png" width="85" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="ekuiper/horizontal/color/ekuiper_horizontal-color.png"  width="250" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="ekuiper/stacked/color/ekuiper_stacked-color.png" width="85" style="display:inline;vertical-align:middle;padding:2%">     &nbsp;  &nbsp;  &nbsp; <img src="ekuiper/icon/color/ekuiper_icon-color.png" width="85" style="display:inline;vertical-align:middle;padding:2%">
+<img src="ekuiper/horizontal/color/ekuiper_horizontal-color.png"  width="250" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="ekuiper/stacked/color/ekuiper_stacked-color.png" width="150" style="display:inline;vertical-align:middle;padding:2%">     &nbsp;  &nbsp;  &nbsp; <img src="ekuiper/icon/color/ekuiper_icon-color.png" width="125" style="display:inline;vertical-align:middle;padding:2%">
 
 
 <br>
